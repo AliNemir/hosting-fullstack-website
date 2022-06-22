@@ -2,6 +2,6 @@
 ![pipeline image](../screenshots/pipeline.png)
 ![EB image](../screenshots/EB.png)
 ![RDS image](../screenshots/RDS.png)
-![Circleci image](../screenshots/circleci.png)
-![GitHub image](../screenshots/github.png)
+![Circleci image](../screenshots/Circleci.png)
+![GitHub image](../screenshots/Github.png)
 ![pipeline image](../screenshots/pipeline.png)
