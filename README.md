@@ -1,5 +1,5 @@
 # Udagram
-for the S3 bucket link (front-end): [link](http://project-bucket1234.s3-website-us-east-1.amazonaws.com/home)
+for the S3 bucket link (front-end): [link](http://project-bucket1234.s3-website-us-east-1.amazonaws.com)
 ### Dependencies
 
 ```
